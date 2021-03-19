@@ -10,7 +10,7 @@ import (
 	"github.com/hajimehoshi/ebiten/v2/ebitenutil"
 
 	"github.com/egonelbre/expebiten/g"
-	"github.com/egonelbre/expebiten/tilemap"
+	"github.com/egonelbre/expebiten/tiles/tilemap"
 )
 
 const (
